@@ -1,1 +1,1 @@
-# BANTCQ-DialogKoELECTRA
+# BANTCQ
